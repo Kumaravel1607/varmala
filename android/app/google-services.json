@@ -1,0 +1,55 @@
+{
+    "project_info": {
+        "project_number": "1035143245697",
+        "project_id": "varamalaa-b69f2",
+        "storage_bucket": "varamalaa-b69f2.appspot.com"
+    },
+    "client": [{
+            "client_info": {
+                "mobilesdk_app_id": "1:1035143245697:android:edca47ecf94e7f7c104280",
+                "android_client_info": {
+                    "package_name": "com.varmalaa.varmalaa"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "1035143245697-afiirch60j4nv3p9dlruikee2oerdoha.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyBMbaB-KWzzpRbAbwjlAoBnCREkWMr0m3Q"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "1035143245697-afiirch60j4nv3p9dlruikee2oerdoha.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1035143245697:android:a2d1bfad88ba9536104280",
+                "android_client_info": {
+                    "package_name": "com.varmalaa.varmalaa"
+                }
+            },
+            "oauth_client": [{
+                "client_id": "1035143245697-afiirch60j4nv3p9dlruikee2oerdoha.apps.googleusercontent.com",
+                "client_type": 3
+            }],
+            "api_key": [{
+                "current_key": "AIzaSyBMbaB-KWzzpRbAbwjlAoBnCREkWMr0m3Q"
+            }],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [{
+                        "client_id": "1035143245697-afiirch60j4nv3p9dlruikee2oerdoha.apps.googleusercontent.com",
+                        "client_type": 3
+                    }]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
